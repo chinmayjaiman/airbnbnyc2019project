@@ -4,3 +4,4 @@
 
 #### Key findings 
 * The most rooms are available in 
+* Most popular Neighbourhood groups are
