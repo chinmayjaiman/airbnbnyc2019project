@@ -4,4 +4,5 @@
 
 #### Key findings 
 * The most rooms are available in 
-* Most popular Neighbourhood groups are
+* Most popular Neighbourhood groups are Manhattan and Brooklyn 
+* Most preferred Room Type was Entire apartment 
