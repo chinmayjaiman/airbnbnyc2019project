@@ -4,6 +4,6 @@
 
 #### Key findings 
 * The maximum number of rooms are priced at $100 
-* Most popular Neighbourhood groups are Manhattan and Brooklyn 
+* Most popular Neighbourhood groups is Manhattan
 * Most preferred Room Type was Entire apartment 
 * Most people stayed in rooms for less than 50 night and their Room's price was less than $500
